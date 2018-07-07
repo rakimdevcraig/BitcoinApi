@@ -5,7 +5,7 @@ for and with the push of a button you will know that value in 4 different crypto
 
 ![pic](img/pic.jpg)
 
-Link to project:
+Link to project:https://rakimdevcraig.github.io/BitcoinApi/
 
 How It's Made:
 Tech used: HTML, CSS, JavaScript, jQuery, APIS
